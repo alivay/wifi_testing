@@ -1,4 +1,4 @@
-appliance,standard,channel width,Wifi dir,clients,channel,tx,rx,chamber,offered load,frame size,distance from ant (cm),antenna slant,orientation,Total Rx Count (Mbis),duration,Throughput (Mb/s),client ant,txpower (dBm)
+appliance,standard,channel width,Wifi dir,clients,channel,tx,rx,chamber,offered load,frame size,distance from ant (cm),antenna slant,orientation,Total Rx Count (Mbis),duration,Throughput,client ant,txpower (dBm)
 v0,802.11ac,80,rx,1,0,0,0,closed,1000,1518,50,0,,44318,60,739,0,20
 v0,802.11ac,80,rx,1,0,0,0,closed,1000,1518,50,0,,43650,60,728,0,20
 v0,802.11ac,80,rx,1,0,0,0,closed,1000,1518,50,0,,43493,60,725,0,20
